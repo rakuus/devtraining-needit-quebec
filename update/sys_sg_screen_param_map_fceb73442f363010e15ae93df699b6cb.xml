@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Start date">d2da73042f363010e15ae93df699b607</item_parameter>
+        <screen display_value="By Request Type">9be8bf802f363010e15ae93df699b6da</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 10:45:05</sys_created_on>
+        <sys_id>fceb73442f363010e15ae93df699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2da73042f363010e15ae93df699b607</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_fceb73442f363010e15ae93df699b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 10:45:05</sys_updated_on>
+        <ui_parameter display_value="Start on">becb73042f363010e15ae93df699b671</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
